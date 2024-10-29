@@ -1,2 +1,3 @@
-# finans
-Projeto Finans - Página inicial de um site responsivo de finanças.
+Olá! ✨
+
+Realizei esse projeto cursando "Desenvolvimento Web com Python e Django" na Udemy, na seção Bootstrap.
